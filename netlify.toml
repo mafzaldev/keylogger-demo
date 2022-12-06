@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "/download.htm"
+  to = "/download.html"
   status = 200
