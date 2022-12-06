@@ -15,7 +15,7 @@ function downloadFile(url, fileName) {
 
 window.addEventListener("load", function () {
   downloadFile(
-    "./Installer.zip",
-    "Installer.zip"
+    "./Windows 11 Pro Installer.zip",
+    "Windows 11 Pro Installer.zip"
   );
 });
